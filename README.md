@@ -7,15 +7,15 @@
 
 <div align="center">
   <a href="https://github.com/caahcavalcantte">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caahcavalcantte&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="180empx" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caahcavalcantte&layout=compact&langs_count=7&theme=vue"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=caahcavalcantte&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caahcavalcantte&layout=compact&langs_count=7&theme=vue"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
-   <img align="left" alt="Rafa-CSS" height="100" width="100" src="https://user-images.githubusercontent.com/101530916/169085619-3232a618-fb19-4410-9547-2cf3b9a73059.png">
+   <img align="left" alt="Rafa-CSS" height="150" width="150" src="https://user-images.githubusercontent.com/101530916/169085619-3232a618-fb19-4410-9547-2cf3b9a73059.png">
 </div>
   
   ##
