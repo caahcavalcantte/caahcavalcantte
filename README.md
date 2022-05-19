@@ -1,6 +1,6 @@
 ## Front-end Developer
 <div align="center">
-  <img align="center" alt="Rafa-CSS"  src="https://user-images.githubusercontent.com/101530916/169189530-f823ccca-5dbf-417d-a425-0e30a683c45e.png">
+  <img align="center" alt="Rafa-CSS"  src="https://user-images.githubusercontent.com/101530916/169190739-19c8fe88-5128-44bb-8d01-75c990f8950b.png">
 </div>
 
 <br>
@@ -9,8 +9,8 @@
 
 <div align="center">
   <a href="https://github.com/caahcavalcantte">
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=caahcavalcantte&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=caahcavalcantte&layout=compact&langs_count=7&theme=vue"/>
+  <img height="170em"  src="https://github-readme-stats.vercel.app/api?username=caahcavalcantte&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="160em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=caahcavalcantte&layout=compact&langs_count=7&theme=vue"/>
 </div>
   
 <br><br>
