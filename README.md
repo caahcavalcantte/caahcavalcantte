@@ -35,4 +35,6 @@
 
  
 </div>
+  
+  ![Snake animation](https://github.com/caahcavalcantte/caahcavalcantte/blob/output/github-contribution-grid-snake.svg)
 
