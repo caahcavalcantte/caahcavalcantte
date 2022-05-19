@@ -1,6 +1,6 @@
 ## Front-end Developer
 <div align="center">
-  <img align="center" alt="Rafa-CSS"  src="https://user-images.githubusercontent.com/101530916/169188437-7c9a64cb-a5f4-4868-bf53-e17fc176964b.png">
+  <img align="center" alt="Rafa-CSS"  src="https://user-images.githubusercontent.com/101530916/169189530-f823ccca-5dbf-417d-a425-0e30a683c45e.png">
 </div>
 
 <br>
