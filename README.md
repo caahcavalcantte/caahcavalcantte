@@ -1,25 +1,33 @@
-## Hi, I'm Cássia Cavalcantte!👋
+## Front-end Developer
+<div align="center">
+  <img align="center" alt="Rafa-CSS"  src="https://user-images.githubusercontent.com/101530916/169186611-54d28794-1162-4cec-93da-0a54f77526ec.png">
+</div>
 
-- 🔭 At the moment I'm working with photo shoots, and I'm in transition of profession.
-- 🌱 I'm studying front-end (CSS3, HTML5, JavaScript).
-- 😄 Pronouns: she/her.
+<br>
 
+## GitHub Analytics
 
 <div align="center">
   <a href="https://github.com/caahcavalcantte">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caahcavalcantte&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caahcavalcantte&layout=compact&langs_count=7&theme=vue"/>
+  <img height="180em" width="360em" src="https://github-readme-stats.vercel.app/api?username=caahcavalcantte&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caahcavalcantte&layout=compact&langs_count=7&theme=vue"/>
 </div>
+  
+<br><br>
+## Codes 
+  
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
-   <img align="left" alt="Rafa-CSS" height="150" width="150" src="https://user-images.githubusercontent.com/101530916/169085619-3232a618-fb19-4410-9547-2cf3b9a73059.png">
+   <img align="right" alt="Rafa-CSS" height="120" width="120" src="https://user-images.githubusercontent.com/101530916/169085619-3232a618-fb19-4410-9547-2cf3b9a73059.png">
 </div>
   
-  ##
- 
+<br><br>
+
+## Social Media  
+  
 <div> 
   <a href="https://instagram.com/cassiacavalcante.fotografia" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href = "mailto:cacavallcantte@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
