@@ -20,6 +20,7 @@
   <img align="center" alt="Caah-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Caah-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Caah-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Caah-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   
 <!--    <img align="right" alt="Caah-CSS" height="100" width="160" src="https://user-images.githubusercontent.com/101530916/169401068-dc791cda-125d-49ee-9731-6baf27aa93b4.jpg"> -->
 </div>
