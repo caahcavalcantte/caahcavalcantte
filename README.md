@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9984A&height=110&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9984A&height=190&section=header"/>
 
 # Front-end Developer
 
@@ -63,4 +63,4 @@
   
 ![Snake animation](https://github.com/caahcavalcantte/caahcavalcantte/blob/output/github-contribution-grid-snake.svg)
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9984A&height=110&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9984A&height=190&section=footer"/>
